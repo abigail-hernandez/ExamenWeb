@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\bin\Debug\net9.0\EventosSPA.Domain.deps.json
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\bin\Debug\net9.0\EventosSPA.Domain.dll
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\bin\Debug\net9.0\EventosSPA.Domain.pdb
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\obj\Debug\net9.0\EventosSPA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\obj\Debug\net9.0\EventosSPA.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\obj\Debug\net9.0\EventosSPA.Domain.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\obj\Debug\net9.0\EventosSPA.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\obj\Debug\net9.0\EventosSPA.Domain.sourcelink.json
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\obj\Debug\net9.0\EventosSPA.Domain.dll
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\obj\Debug\net9.0\refint\EventosSPA.Domain.dll
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\obj\Debug\net9.0\EventosSPA.Domain.pdb
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Domain\obj\Debug\net9.0\ref\EventosSPA.Domain.dll

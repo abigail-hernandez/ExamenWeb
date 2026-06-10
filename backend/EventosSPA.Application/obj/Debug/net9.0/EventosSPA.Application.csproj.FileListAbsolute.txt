@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\bin\Debug\net9.0\EventosSPA.Application.deps.json
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\bin\Debug\net9.0\EventosSPA.Application.dll
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\bin\Debug\net9.0\EventosSPA.Application.pdb
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\bin\Debug\net9.0\EventosSPA.Domain.dll
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\bin\Debug\net9.0\EventosSPA.Domain.pdb
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\obj\Debug\net9.0\EventosSPA.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\obj\Debug\net9.0\EventosSPA.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\obj\Debug\net9.0\EventosSPA.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\obj\Debug\net9.0\EventosSPA.Application.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\obj\Debug\net9.0\EventosSPA.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\obj\Debug\net9.0\EventosSPA.Application.sourcelink.json
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\obj\Debug\net9.0\EventosS.60327828.Up2Date
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\obj\Debug\net9.0\EventosSPA.Application.dll
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\obj\Debug\net9.0\refint\EventosSPA.Application.dll
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\obj\Debug\net9.0\EventosSPA.Application.pdb
+C:\Users\Usuario\Desktop\ExamenWeb\ExamenWeb\backend\EventosSPA.Application\obj\Debug\net9.0\ref\EventosSPA.Application.dll
