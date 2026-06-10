@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventosSPA.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+258c376e639e8f54a746ec6397e3bbe1b262f35e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2ba9d5abcdf5668657964e475089abc8f9980021")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventosSPA.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventosSPA.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
