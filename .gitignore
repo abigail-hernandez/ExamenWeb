@@ -141,3 +141,16 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# .NET backend build output
+backend/**/bin/
+backend/**/obj/
+# SQLite database generada en runtime
+backend/**/*.db
+backend/**/*.db-shm
+backend/**/*.db-wal
+
+# Next.js generados
+next-env.d.ts
+*.tsbuildinfo
+.next/
